@@ -1,5 +1,5 @@
 # Registro de datos en MySQL desde una GUI en TkInter
-# @autor: Magno Efren
+# @autor: Creditos de Magno Efren, yo solo comente y lo adapte a mi base de datos :D
 # Youtube: https://www.youtube.com/c/MagnoEfren
 
 from tkinter import Entry, Label, Frame, Tk, Button, ttk, Scrollbar, VERTICAL, HORIZONTAL, StringVar, END, IntVar, messagebox
